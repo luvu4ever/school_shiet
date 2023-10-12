@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "a.C": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

@@ -1,0 +1,1 @@
+{"name":"Local: h","url":"e:\\SINNO\\h\\h.cpp","tests":[{"id":1682242641637,"input":"3\n7\n2 3 1 * + 9 –\n7\n- + 8 * 7 5 9\n3\n-10 -4 +","output":""},{"id":1682242683077,"input":"1\n7\n2 3 1 * + 9 –","output":"-4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SINNO\\h\\h.cpp","group":"local","local":true}
